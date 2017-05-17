@@ -1,0 +1,2 @@
+resource_registry:
+  "Evoila::Deployment::Elasticsearch": src/deploy-elasticsearch-ubuntu.yaml
